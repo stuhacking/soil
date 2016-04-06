@@ -3,8 +3,8 @@
 #include <cstdlib>
 #include <string>
 #include <iostream>
-#include "../common/common.hpp"
-#include "../SOIL2/SOIL2.h"
+#include "common.hpp"
+#include "../code/soil.h"
 
 #define NO_SDL_GLEXT
 #if ( defined( _MSCVER ) || defined( _MSC_VER ) ) || defined( __APPLE_CC__ ) || defined ( __APPLE__ )
