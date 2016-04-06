@@ -1,4 +1,4 @@
-#include "common.hpp"
+#include "test_common.hpp"
 #include <string>
 #include <cmath>
 #include <climits>

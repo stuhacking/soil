@@ -4,7 +4,7 @@
 #include <string>
 #include <iostream>
 #include <vector>
-#include "common.hpp"
+#include "test_common.hpp"
 #include "../code/soil.h"
 
 #define NO_SDL_GLEXT
