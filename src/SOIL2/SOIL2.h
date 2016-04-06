@@ -42,6 +42,9 @@
 	* everybody at gamedev.net
 **/
 
+/**
+ * @file SOIL2.h
+ */
 #ifndef HEADER_SIMPLE_OPENGL_IMAGE_LIBRARY
 #define HEADER_SIMPLE_OPENGL_IMAGE_LIBRARY
 
