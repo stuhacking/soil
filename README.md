@@ -1,8 +1,7 @@
 SOIL
 ====
-
-[![Build Status](https://travis-ci.org/libgame/soil.svg?branch=master)](https://travis-ci.org/libgame/soil)
-[![Build status](https://ci.appveyor.com/api/projects/status/1318nprkwkkt1f5j/branch/master?svg=true)](https://ci.appveyor.com/project/ssbx/soil/branch/master)
+[![Build Status](https://travis-ci.org/funlibs/soil.svg?branch=master)](https://travis-ci.org/funlibs/soil)
+[![Build status](https://ci.appveyor.com/api/projects/status/cmxc8m3cjvp1pfgp/branch/master?svg=true)](https://ci.appveyor.com/project/ssbx/soil-vdevt/branch/master)
 
 Git/Cmake project for the [SOIL2 Project](https://bitbucket.org/SpartanJ/soil2).
 
