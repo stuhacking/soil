@@ -1,5 +1,5 @@
-#include "pkm_helper.h"
-#include "etc1_utils.h"
+#include "../include/pkm_helper.h"
+#include "../include/etc1_utils.h"
 
 static int stbi__pkm_test(stbi__context *s)
 {

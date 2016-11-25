@@ -1,4 +1,4 @@
-#include "pvr_helper.h"
+#include "../include/pvr_helper.h"
 
 static int stbi__pvr_test(stbi__context *s)
 {

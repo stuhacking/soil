@@ -2,7 +2,7 @@
 ///	DDS file support, does decoding, _not_ direct uploading
 ///	(use SOIL for that ;-)
 
-#include "image_DXT.h"
+#include "../include/image_DXT.h"
 
 static int stbi__dds_test(stbi__context *s)
 {

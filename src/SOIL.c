@@ -1,6 +1,6 @@
 /*
  	Fork by Martin Lucas Golini
- 	 
+
  	Original author
 	Jonathan Dummer
 	2007-07-26-10.36
@@ -72,7 +72,7 @@
 	#include <windows.h>
 	#include <wingdi.h>
 	#include <GL/gl.h>
-	
+
 	#ifndef GL_UNSIGNED_SHORT_4_4_4_4
 	#define GL_UNSIGNED_SHORT_4_4_4_4 0x8033
 	#endif
@@ -104,15 +104,15 @@
 #define GL_RG                             0x8227
 #endif
 
-#include "soil.h"
+#include "../include/SOIL.h"
 #define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
+#include "../include/stb_image.h"
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_image_write.h"
-#include "image_helper.h"
-#include "image_DXT.h"
-#include "pvr_helper.h"
-#include "pkm_helper.h"
+#include "../include/stb_image_write.h"
+#include "../include/image_helper.h"
+#include "../include/image_DXT.h"
+#include "../include/pvr_helper.h"
+#include "../include/pkm_helper.h"
 
 #include <stdlib.h>
 #include <string.h>

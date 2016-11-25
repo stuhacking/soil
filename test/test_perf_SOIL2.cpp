@@ -5,7 +5,7 @@
 #include <iostream>
 #include <vector>
 #include "test_common.hpp"
-#include "../code/soil.h"
+#include "../include/SOIL.h"
 
 #define NO_SDL_GLEXT
 #if ( defined( _MSCVER ) || defined( _MSC_VER ) ) || defined( __APPLE_CC__ ) || defined ( __APPLE__ )
@@ -139,7 +139,7 @@ TestOutputs LoadTest(const TestParams &params)
 {
 	const size_t numFiles = params.files.size();
 	std::vector<GLuint> texID(params.numberOfLoads);
-  
+
 	TestOutputs outputs;
 
 	for (int i = 0; i < params.numberOfLoads; ++i)
